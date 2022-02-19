@@ -1,0 +1,8 @@
+{
+  "name":"vidly-test",
+  "database":{
+      "name":"mongo",
+      "connection_string":"mongodb://localhost/vidly-test"
+  },
+  "jwt-secret":"secret"
+}

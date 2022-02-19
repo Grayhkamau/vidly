@@ -1,0 +1,7 @@
+{
+    "name":"vidly-development",
+    "database":{
+        "name":"mongo",
+        "connection_string":"mongodb://localhost/vidly"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name":"vidly",
+    "jwt-secret":"secret",
+    "database":{
+        "name":"mongo"
+    }
+}
